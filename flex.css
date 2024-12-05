@@ -1,0 +1,157 @@
+.container{
+    display: flex ;
+width: 900px;
+
+
+}
+
+
+
+
+.first-div {
+    display: flex;
+    gap: 2%;
+    padding: 5PX;
+    height: 600px;
+    width: 5000px;
+    border : 2px solid black;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.first-div-red {
+    border: 1px solid red;
+    background-color: #ff0000;
+    width: 80px;
+    height: 80px;
+    
+}
+
+.first-div-green {
+    border: 1px solid black;
+    background-color: green;
+    height: 80px;
+    width: 80px;
+}
+
+.First-div-blue {
+    border: 1px solid black;
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+}
+
+
+
+
+.second-div {
+    display: flex;
+    gap: 2%;
+    padding: 5PX;
+    height: 600PX;
+    width: 5000px;
+    border : 2px solid black;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: start;
+}
+
+.second-div-red {
+    border: 1px solid black;
+    background-color: red;
+    width: 80px;
+    height: 80px;
+}
+
+.second-div-green {
+    border: 1px solid black;
+    background-color: green;
+    height: 80px;
+    width: 80px;
+    
+}
+
+.second-div-blue {
+    border: 1px solid black;
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+    
+}
+
+
+
+
+
+.third-div {
+    display: flex;
+    gap: 2%;
+    padding: 5PX;
+    height: 600PX;
+    width: 5000px;
+    border : 2px solid black;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: end;
+    
+}
+
+.third-div-red {
+    border: 1px solid black;
+    background-color: red;
+    width: 80px;
+    height: 80px;
+}
+
+.third-div-green {
+    border: 1px solid black;
+    background-color: green;
+    height: 80px;
+    width: 80px;
+    
+}
+
+.third-div-blue {
+    border: 1px solid black;
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+    
+}
+
+
+
+
+.fourth-div {
+    display: flex;
+    gap: 30%;
+    padding: 5PX;
+    height: 600PX;
+    width: 6000px;
+    border :   2px solid black;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center ;
+}
+
+.fourth-div-red {
+    border: 1px solid black;
+    background-color: red;
+    width: 80px;
+    height: 80px;
+}
+
+.fourth-div-green {
+    border: 1px solid black;
+    background-color: green;
+    height: 80px;
+    width: 80px;
+    
+}
+.fourth-div-blue {
+    border: 1px solid black;
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+}
