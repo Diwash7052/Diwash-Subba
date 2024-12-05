@@ -16,27 +16,26 @@
   background-color: orange;
   border-radius: 5px;
   grid-area: H;
-  width:100%;
 }
 
 .box2{
   background-color: greenyellow;
   border-radius: 5px;
-  grid-area:A;
+  grid-area:M;
   
 }
 
 .box3{
   background-color:red;
   border-radius: 5px;
-  grid-area: S;
+  grid-area: D;
   width:100%
 }
 
 .box4{
   background-color:aqua;
   border-radius: 5px;
-  grid-area: T;
+  grid-area: N;
 }
 
 
