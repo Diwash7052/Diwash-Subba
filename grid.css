@@ -1,0 +1,49 @@
+.box{
+    background-color: blue;
+    margin:10px;
+}
+
+.container{
+    height:100vh;
+  display: grid;
+  grid-template-rows: repeat(2, 100px);
+  grid-template-columns: repeat(3, 30%);
+
+
+}
+
+.box1{
+  background-color: blue;
+  margin:10px;
+}
+
+.box2{
+  background-color: green;
+ margin: 10px;
+}
+
+
+.box3{
+  background-color: blueviolet;
+  margin:10px;
+}
+
+.box4{
+  background-color:blue;
+  margin: 10px
+}
+
+.box4{
+  background-color:red;
+  margin:10px;
+}
+
+.box5{
+  background-color:orange;
+  margin:10px;
+}
+
+.box6{
+  background-color:orchid;
+  margin:10px;
+}
